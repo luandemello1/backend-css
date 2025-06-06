@@ -168,8 +168,6 @@ npm install nodemon --save-dev # Auto-reload do servidor
 
 Bora codar! Qualquer dúvida, abre uma **issue** ou vem conversar no **discussions** 🚀
 
-**⭐ Dica extra:** Veja esse projeto completo em [github.com/luandemello1/meu-projeto-backend](https://github.com)
-
 🔗 **Links úteis:**
 - [Documentação do Express](https://expressjs.com/)
 - [CSS Tricks](https://css-tricks.com/)
